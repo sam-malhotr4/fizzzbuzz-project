@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.055" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.049" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-16.0.2.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/surefire/surefirebooter2069813540902616452.jar /Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/surefire 2024-02-28T20-16-19_715-jvmRun1 surefire8067286347840557466tmp surefire_010353982235603003393tmp"/>
+    <property name="sun.java.command" value="/Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/surefire/surefirebooter13490240663718656020.jar /Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/surefire 2024-02-28T20-28-46_173-jvmRun1 surefire17794867480800671040tmp surefire_017476961794287635422tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/test-classes:/Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/classes:/Users/saksham_s1ngh/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/saksham_s1ngh/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/surefire/surefirebooter2069813540902616452.jar"/>
+    <property name="surefire.real.class.path" value="/Users/saksham_s1ngh/Desktop/CarletonCourseFiles/EGEN5203_Agile-software-dev/EGEN5203_labs/FizzBuzz/target/surefire/surefirebooter13490240663718656020.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="16.0.2+7-67"/>
@@ -54,8 +54,8 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="checkFizzBuzzForMultiplesOf3" classname="org.example.AppTest" time="0.004"/>
+  <testcase name="checkFizzBuzzForMultiplesOf3" classname="org.example.AppTest" time="0.003"/>
   <testcase name="checkFizzBuzzForMultiplesOf5" classname="org.example.AppTest" time="0"/>
   <testcase name="checkFizzBuzzforMultiplesOfBoth3And5" classname="org.example.AppTest" time="0"/>
-  <testcase name="checkFizzBuzzNormalNumbers" classname="org.example.AppTest" time="0"/>
+  <testcase name="checkFizzBuzzNormalNumbers" classname="org.example.AppTest" time="0.001"/>
 </testsuite>

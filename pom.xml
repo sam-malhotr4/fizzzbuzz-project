@@ -84,7 +84,7 @@
         </includes>
       </resource>
       <resource>
-        <directory>test/main</directory>
+        <directory>src/test/main</directory>
         <includes>
           <include>**/*.java</include>
         </includes>
