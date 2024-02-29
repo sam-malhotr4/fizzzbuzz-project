@@ -21,7 +21,7 @@ public class AppTest
     }
 
     @Test
-    public void checkFizzBuzz(){
+    public void checkFizzBuzzForMultiplesOf3(){
         assertEquals("Fizz", fizzBuzz(3));
     }
 }
