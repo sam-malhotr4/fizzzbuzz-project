@@ -35,4 +35,9 @@ public class AppTest
         assertEquals("Buzz", fizzBuzz(5));
     }
 
+    @Test
+    public void checkFizzBuzzforMultiplesOfBoth3And5() {
+        assertEquals("FizzBuzz", fizzBuzz(15));
+    }
+
 }
