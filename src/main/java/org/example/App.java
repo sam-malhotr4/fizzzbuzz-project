@@ -15,6 +15,6 @@ public class App
         if(number % 3 == 0){
             return "Fizz";
         }
-        return "";
+        return " ";
     }
 }
