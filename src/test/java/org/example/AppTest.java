@@ -21,7 +21,13 @@ public class AppTest
     }
 
     @Test
+    public void checkFizzBuzzNormalNumbers(){
+        assertEquals("1", fizzBuzz(1));
+    }
+
+    @Test
     public void checkFizzBuzzForMultiplesOf3(){
         assertEquals("Fizz", fizzBuzz(3));
     }
+
 }
